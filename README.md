@@ -27,6 +27,7 @@ https://github.com/eriklindernoren/ML-From-Scratch
 https://towardsdatascience.com/@niranjankumarc
 https://distill.pub/2019/visual-exploration-gaussian-processes/
 https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
+http://karpathy.github.io/neuralnets/
 
 
 
