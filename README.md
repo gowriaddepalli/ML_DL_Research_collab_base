@@ -51,4 +51,5 @@ https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-sta
 ## cheatsheat:
 
 https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+https://ml-cheatsheet.readthedocs.io/en/latest/optimizers.html
 
