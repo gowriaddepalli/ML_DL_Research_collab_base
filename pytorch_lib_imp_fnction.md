@@ -6,3 +6,4 @@
 - nn.linear
 - nn.conv2d
 - nn.maxpool2D
+- nn. ConvTranspose2d
