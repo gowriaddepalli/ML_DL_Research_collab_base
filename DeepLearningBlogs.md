@@ -10,7 +10,7 @@ https://towardsdatascience.com/everything-you-need-to-know-about-saving-weights-
 
 ### DL Labs:
 
-https://github.com/L1aoXingyu/pytorch-beginner
-https://github.com/Atcold/pytorch-Deep-Learning
-https://github.com/udacity/deep-learning-v2-pytorch
-https://github.com/yunjey/pytorch-tutorial
+- https://github.com/L1aoXingyu/pytorch-beginner
+- https://github.com/Atcold/pytorch-Deep-Learning
+- https://github.com/udacity/deep-learning-v2-pytorch
+- https://github.com/yunjey/pytorch-tutorial
