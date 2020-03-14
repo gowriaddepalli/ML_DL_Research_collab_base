@@ -10,7 +10,7 @@ List of important reading materials to get concept:
 
 ### DL Labs:
 
-- https://github.com/L1aoXingyu/pytorch-beginner
+- https://github.com/L1aoXingyu/pytorch-beginner          ( good coding practices)
 - https://github.com/Atcold/pytorch-Deep-Learning
 - https://github.com/udacity/deep-learning-v2-pytorch
 - https://github.com/yunjey/pytorch-tutorial
