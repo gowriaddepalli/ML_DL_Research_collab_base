@@ -6,7 +6,9 @@ This is a repository of where we are trying to have all the knowledge base colle
 ## DL CV NLP Tensorflow implementation:
 
 
-
+- https://www.educative.io/courses/natural-language-processing-ml/7nz7ynvqVA8
+- https://www.educative.io/courses/image-recognition-ml
+- https://www.educative.io/courses/deep-learning-for-industry
 
 
 ## Papers:
