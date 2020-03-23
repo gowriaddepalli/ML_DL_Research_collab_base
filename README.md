@@ -68,4 +68,5 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://towardsdatascience.com/quest-to-understand-machine-learning-in-production-notes-part-ii-a72bdde60f4c
 
 ## NLP Research
+
 - https://ruder.io/deep-learning-nlp-best-practices/index.html
