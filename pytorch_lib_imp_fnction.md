@@ -7,3 +7,12 @@
 - nn.conv2d
 - nn.maxpool2D
 - nn. ConvTranspose2d
+
+
+## Imp layers:
+
+- convolution layer
+- embedding layer
+- recurrent layer
+- normalization layer
+- max pooling layer
