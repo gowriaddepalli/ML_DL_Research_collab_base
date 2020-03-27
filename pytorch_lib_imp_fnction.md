@@ -16,3 +16,5 @@
 - recurrent layer
 - normalization layer
 - max pooling layer
+- Fully connected/Linear Layer
+- Transformer Layer
