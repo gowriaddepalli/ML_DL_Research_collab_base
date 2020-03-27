@@ -18,3 +18,7 @@
 - max pooling layer
 - Fully connected/Linear Layer
 - Transformer Layer
+- padding layers
+- dropout layers
+- sparse layers
+- vision layers
