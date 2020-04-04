@@ -23,3 +23,31 @@ to handle dataset preprocessing, statistical analysis, plotting, and more. Moreo
 2. Put researchers first.
 3. Provide pragmatic performance.
 4. Worse is better.
+
+###### Usability Centric Design.
+
+1. Deep learning models are just Python programs
+2. Interoperability and extensibility
+3. Automatic differentiation
+
+
+###### Performance focussed implementation.
+
+1. An efficient C++ core.
+2. Separate control and data flow.
+3. Custom caching tensor allocator.
+4. Multiprocessing.
+5. Reference counting.
+
+###### Evaluation.
+
+1. Asynchronous dataflow.
+2. Memory management.
+3. Benchmarks.
+4. Adoption.
+
+###### Conclusion and Future Work.
+
+- we plan to continue to improve the speed and scalability of PyTorch. 
+- Most notably, we are working on the PyTorch JIT: a suite of tools that allow PyTorch programs to be executed outside of the Python interpreter where they can be further optimized. 
+- We also intend to improve support for distributed computation by providing efficient primitives for data parallelism as well as a Pythonic library for model parallelism based around remote procedure calls.
