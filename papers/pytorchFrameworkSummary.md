@@ -5,3 +5,8 @@ This is the summary of the paper of the pytorch framework.
 - It performs immediate execution of dynamic tensor computations with automatic differentiation and
 GPU acceleration, and does so while maintaining performance comparable to the fastest current
 libraries for deep learning.
+
+
+- Four Major trends in scientific computing imp for deep learning:
+
+1. The development of domain specific languages such as APL, MATLAB, R and Julia, turned multidimensional arrays (often referred to as tensors) into first-class objects supported by a comprehensive set of mathematical primitives (or operators) to manipulate them. Separately, libraries such as NumPy, Torch, Eigen and Lush made array-based programming productive in general purpose languages such as Python, Lisp, C++ and Lua.
