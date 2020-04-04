@@ -6,8 +6,7 @@ This is the summary of the paper of the pytorch framework.
 GPU acceleration, and does so while maintaining performance comparable to the fastest current
 libraries for deep learning.
 
-
-- Four Major trends in scientific computing imp for deep learning:
+###### Four Major trends in scientific computing imp for deep learning:
 
 1. The development of domain specific languages such as APL, MATLAB, R and Julia, turned multidimensional arrays (often referred to as tensors) into first-class objects supported by a comprehensive set of mathematical primitives (or operators) to manipulate them. Separately, libraries such as NumPy, Torch, Eigen and Lush made array-based programming productive in general purpose languages such as Python, Lisp, C++ and Lua.
 
@@ -17,3 +16,10 @@ libraries for deep learning.
 to handle dataset preprocessing, statistical analysis, plotting, and more. Moreover, the openness, interoperability, and flexibility of free software fostered the development of vibrant communities that could quickly address new or changing needs by extending the existing functionality of a library or if needed by developing and releasing brand new ones.
 
 4. Finally, the availability and commoditization of general-purpose massively parallel hardware such as GPUs provided the computing power required by deep learning methods. Specialized libraries such as cuDNN, produced a set of high-performance reusable deep learning kernels that enabled frameworks such as Caffe, Torch7, or TensorFlow to take advantage of these hardware accelerators.
+
+###### Pytorch Design principles.
+
+1. Be Pythonic. 
+2. Put researchers first.
+3. Provide pragmatic performance.
+4. Worse is better.
