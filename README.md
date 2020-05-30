@@ -75,13 +75,27 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
 - https://ml-cheatsheet.readthedocs.io/en/latest/optimizers.html
 
-## ML Production/Engineering guidelines
+## ML Production/Engineering guidelines:
 
 - https://developers.google.com/machine-learning/guides/rules-of-ml
 - http://franciscouture.com/wordpress/
 - https://towardsdatascience.com/quest-to-understand-machine-learning-in-production-notes-part-i-c9364eb4616
 - https://towardsdatascience.com/quest-to-understand-machine-learning-in-production-notes-part-ii-a72bdde60f4c
 
-## NLP Research
+## NLP Research:
 
 - https://ruder.io/deep-learning-nlp-best-practices/index.html
+
+## Mathematics: (3Blue1Brown series)
+
+- https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+
+## paper explanations(YouTube):
+
+- https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew
+
+## SOTA code:
+
+- https://paperswithcode.com/
+- https://modelzoo.co/
+
