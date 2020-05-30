@@ -13,6 +13,11 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://brendenlake.github.io/CCM-site/
 
 
+## High Performance Machine Learning:
+
+- HPML, fall 2019 (Drive), Dr. Ulrich Finkler.
+
+
 ## DL CV NLP Tensorflow implementation:
 
 
