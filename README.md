@@ -3,6 +3,16 @@
 This is a repository of where we are trying to have all the knowledge base collected.
 
 
+## CV Notes (Rob fergus):
+
+- https://cs.nyu.edu/~fergus/teaching/vision/index.html
+
+## Reinforcement Learning/ Cognitive Science/ Probabilistic graphical models
+
+- https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
+- https://brendenlake.github.io/CCM-site/
+
+
 ## DL CV NLP Tensorflow implementation:
 
 
