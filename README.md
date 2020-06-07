@@ -99,3 +99,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://paperswithcode.com/
 - https://modelzoo.co/
 
+## Stanford Courses:
+
+- https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate
+
+
