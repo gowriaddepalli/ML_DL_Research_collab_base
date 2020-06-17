@@ -63,6 +63,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://www.youtube.com/watch?v=D3fnGG7cdjY
 - https://www.youtube.com/watch?v=vTY58-51XZA
+- https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU
 
 ## Interview Prep:
 
