@@ -75,6 +75,9 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
 - https://ml-cheatsheet.readthedocs.io/en/latest/optimizers.html
+- https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6
+- https://ml-cheatsheet.readthedocs.io/en/latest/index.html
+- https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
 
 ## ML Production/Engineering guidelines:
 
