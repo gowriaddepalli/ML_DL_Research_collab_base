@@ -50,6 +50,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://distill.pub/2019/visual-exploration-gaussian-processes/
 - https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 - http://karpathy.github.io/neuralnets/
+- https://im.perhapsbay.es/
 
 
 
