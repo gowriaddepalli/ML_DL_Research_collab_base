@@ -34,6 +34,10 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://github.com/gowriaddepalli/deeplearning-models
 
+## Applied ML and Industry Research:
+
+- https://github.com/gowriaddepalli/applied-ml
+
 
 ## DL CV NLP Tensorflow implementation:
 
