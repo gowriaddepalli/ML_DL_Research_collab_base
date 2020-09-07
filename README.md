@@ -17,6 +17,21 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - HPML, fall 2019 (Drive), Dr. Ulrich Finkler.
 
+## Deep Learning (Dr. Yann Le Cunn):
+
+
+## Notes:
+
+- ML (https://github.com/gowriaddepalli/100-Days-Of-ML-Code)
+- DL (https://github.com/gowriaddepalli/DeepLearning.ai-Summary)
+- NLP - cs224n - (https://github.com/gowriaddepalli/cs224n-winter-2017)
+- CV - cs231n - (https://github.com/gowriaddepalli/CS231n-2017-Summary)
+
+
+## Model implementation code:
+
+- https://github.com/gowriaddepalli/deeplearning-models
+
 
 ## DL CV NLP Tensorflow implementation:
 
@@ -59,6 +74,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://classroom.udacity.com/courses/ud188
 - https://www.deeplearning.ai/deep-learning-specialization/
+- https://www.fast.ai/
 
 
 ## Videos:
@@ -80,6 +96,9 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6
 - https://ml-cheatsheet.readthedocs.io/en/latest/index.html
 - https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
+- https://github.com/gowriaddepalli/stanford-cs-229-machine-learning
+- https://github.com/gowriaddepalli/stanford-cs-230-deep-learning
+- https://github.com/gowriaddepalli/stanford-cs-221-artificial-intelligence
 
 ## ML Production/Engineering guidelines:
 
@@ -87,6 +106,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 - http://franciscouture.com/wordpress/
 - https://towardsdatascience.com/quest-to-understand-machine-learning-in-production-notes-part-i-c9364eb4616
 - https://towardsdatascience.com/quest-to-understand-machine-learning-in-production-notes-part-ii-a72bdde60f4c
+- https://www.educative.io/courses/data-science-in-production-building-scalable-model-pipeline
 
 ## NLP Research:
 
@@ -113,5 +133,6 @@ This is a repository of where we are trying to have all the knowledge base colle
 ## floating point deep learning:
 
 - https://eigenfoo.xyz/floating-point-deep-learning/
+
 
 
