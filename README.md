@@ -3,11 +3,11 @@
 This is a repository of where we are trying to have all the knowledge base collected.
 
 
-## CV Notes (Rob fergus):
+## CV Notes (Dr.Rob fergus):
 
 - https://cs.nyu.edu/~fergus/teaching/vision/index.html
 
-## Reinforcement Learning/ Cognitive Science/ Probabilistic graphical models
+## Reinforcement Learning/ Cognitive Science/ Probabilistic graphical models (Dr. Brenden Lake):
 
 - https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
 - https://brendenlake.github.io/CCM-site/
