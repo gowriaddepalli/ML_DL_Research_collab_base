@@ -91,6 +91,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 ## NLP Research:
 
 - https://ruder.io/deep-learning-nlp-best-practices/index.html
+- https://jalammar.github.io/
 
 ## Mathematics: (3Blue1Brown series)
 
@@ -108,5 +109,9 @@ This is a repository of where we are trying to have all the knowledge base colle
 ## Stanford Courses:
 
 - https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate
+
+## floating point deep learning:
+
+- https://eigenfoo.xyz/floating-point-deep-learning/
 
 
