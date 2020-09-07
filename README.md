@@ -19,6 +19,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 ## Deep Learning (Dr. Yann Le Cunn):
 
+- https://atcold.github.io/pytorch-Deep-Learning/
+- https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
 
 ## Notes:
 
