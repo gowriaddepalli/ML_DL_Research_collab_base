@@ -30,7 +30,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 - DL (https://github.com/gowriaddepalli/DeepLearning.ai-Summary)
 - NLP - cs224n - (https://github.com/gowriaddepalli/cs224n-winter-2017)
 - CV - cs231n - (https://github.com/gowriaddepalli/CS231n-2017-Summary)
-- Math - https://vaibhavgupta.io/notes/
+- Math - : https://vaibhavgupta.io/notes/ \
+         : https://nickgreenquist.github.io/blog/
 
 
 ## Model implementation code:
