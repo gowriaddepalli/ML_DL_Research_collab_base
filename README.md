@@ -24,7 +24,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 ## Notes:
 
-- ML: (https://github.com/gowriaddepalli/100-Days-Of-ML-Code)\
+- ML: (https://github.com/gowriaddepalli/100-Days-Of-ML-Code) \
     : https://github.com/Shivanshu-Gupta/foundations-of-machine-learning-david-rosenberg/blob/master/notes.pdf
 - DL (https://github.com/gowriaddepalli/DeepLearning.ai-Summary)
 - NLP - cs224n - (https://github.com/gowriaddepalli/cs224n-winter-2017)
