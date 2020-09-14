@@ -57,6 +57,9 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://github.com/sksq96/dl-papernotes
 - https://arxiv.org/pdf/1704.02532.pdf
 - https://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html
+- https://medium.com/@rupak.thakur/23-deep-learning-papers-to-get-you-started-part-1-308f80d7bba2
+- https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+- https://distill.pub/
 
 
 
@@ -78,6 +81,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 - http://karpathy.github.io/neuralnets/
 - https://im.perhapsbay.es/
 - https://im.perhapsbay.es/db
+- https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0#a817
 
 
 
