@@ -56,6 +56,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://github.com/karanchahal/papers
 - https://github.com/sksq96/dl-papernotes
 - https://arxiv.org/pdf/1704.02532.pdf
+- https://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html
 
 
 
