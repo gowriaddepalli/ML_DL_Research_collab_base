@@ -1,1 +1,1 @@
-## Equations, graphs and Functions
+## Equations, Graphs and Functions
