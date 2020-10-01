@@ -131,6 +131,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 ## Mathematics: (3Blue1Brown series)
 
 - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+- https://vaibhavgupta.io/notes/
+- https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition
 
 ## paper explanations(YouTube):
 
