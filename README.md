@@ -127,6 +127,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://ruder.io/deep-learning-nlp-best-practices/index.html
 - https://jalammar.github.io/
+= https://learningturtle.github.io/Blog/ (attention)
 
 ## Mathematics: (3Blue1Brown series)
 
