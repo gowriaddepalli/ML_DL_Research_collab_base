@@ -122,6 +122,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://towardsdatascience.com/quest-to-understand-machine-learning-in-production-notes-part-i-c9364eb4616
 - https://towardsdatascience.com/quest-to-understand-machine-learning-in-production-notes-part-ii-a72bdde60f4c
 - https://www.educative.io/courses/data-science-in-production-building-scalable-model-pipeline
+- https://madewithml.com/courses/applied-ml-in-production/
 
 ## NLP Research:
 
