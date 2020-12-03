@@ -153,5 +153,10 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://eigenfoo.xyz/floating-point-deep-learning/
 
+## Metrics:
+
+- https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)
+- https://abacus.ai/blog/2020/11/30/evaluating-deep-learning-models-classification/
+
 
 
