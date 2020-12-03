@@ -21,6 +21,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://atcold.github.io/pytorch-Deep-Learning/
 - https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
+- https://d2l.ai/. (DL)
+- https://course.fast.ai/videos/?lesson=1 (FAST AI)
 
 ## Notes:
 
@@ -41,6 +43,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 ## Applied ML and Industry Research:
 
 - https://github.com/gowriaddepalli/applied-ml
+- https://madewithml.com/courses/applied-ml-in-production/solution/ (MLops)
 
 
 ## DL CV NLP Tensorflow implementation:
@@ -82,6 +85,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://im.perhapsbay.es/
 - https://im.perhapsbay.es/db
 - https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0#a817
+- https://p555s.github.io/
 
 
 
@@ -123,6 +127,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://towardsdatascience.com/quest-to-understand-machine-learning-in-production-notes-part-ii-a72bdde60f4c
 - https://www.educative.io/courses/data-science-in-production-building-scalable-model-pipeline
 - https://madewithml.com/courses/applied-ml-in-production/
+- https://medium.com/dair-ai/my-recommendations-to-learn-machine-learning-in-production-d3c5b8e42635
 
 ## NLP Research:
 
@@ -158,5 +163,16 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)
 - https://abacus.ai/blog/2020/11/30/evaluating-deep-learning-models-classification/
 
+## Interpretability, biasness and fairness in ML:
+
+- https://towardsdatascience.com/interpretability-in-machine-learning-ab0cf2e66e1
+
+## ML + Systems:
+
+- https://www.youtube.com/watch?v=OEiNnfdxBRE&list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq
+
+## ML:
+
+- https://github.com/madewithml/basics
 
 
