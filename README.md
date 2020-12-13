@@ -175,4 +175,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://github.com/madewithml/basics
 
+## AutoEncoders
+
+- https://towardsdatascience.com/variational-autoencoder-demystified-with-pytorch-implementation-3a06bee395ed
+
 
