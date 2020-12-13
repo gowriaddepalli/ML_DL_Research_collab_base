@@ -35,6 +35,9 @@ This is a repository of where we are trying to have all the knowledge base colle
 - Math - : https://vaibhavgupta.io/notes/ \
          : https://nickgreenquist.github.io/blog/
 
+#### Probability and statistics
+
+- https://machinelearninginterview.com/topics/probability-and-statistics/dartboard-paradox-probability-density-function-vs-probability/
 
 ## Model implementation code:
 
