@@ -183,4 +183,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780
 
+## Evaluating Model:
+
+- https://www.linkedin.com/posts/bindureddy_evaluating-deep-learning-models-with-abacusai-activity-6739970775232708609-Q_W2/
+
 
