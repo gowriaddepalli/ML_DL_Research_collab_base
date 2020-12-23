@@ -137,6 +137,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://ruder.io/deep-learning-nlp-best-practices/index.html
 - https://jalammar.github.io/
 = https://learningturtle.github.io/Blog/ (attention)
+- https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452 (Transformers)
 
 ## Mathematics: (3Blue1Brown series)
 
@@ -193,5 +194,9 @@ This is a repository of where we are trying to have all the knowledge base colle
 ## GANS:
 
 - https://www.linkedin.com/posts/akshat57_recitation-11-generative-adversarial-networks-activity-6745635131828039680-Z7LM/
+
+## Energy based models:
+
+- https://thesequence.substack.com/p/edge47
 
 
