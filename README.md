@@ -89,6 +89,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://im.perhapsbay.es/db
 - https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0#a817
 - https://p555s.github.io/
+- https://spraphul.github.io/blog/MyCollections
 
 
 
