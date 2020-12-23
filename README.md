@@ -190,4 +190,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://www.linkedin.com/posts/bindureddy_evaluating-deep-learning-models-with-abacusai-activity-6739970775232708609-Q_W2/
 
+## GANS:
+
+- https://www.linkedin.com/posts/akshat57_recitation-11-generative-adversarial-networks-activity-6745635131828039680-Z7LM/
+
 
