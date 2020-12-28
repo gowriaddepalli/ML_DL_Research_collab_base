@@ -1,7 +1,10 @@
-# ML_DL_Research_collab_base
+# ML_DL_Research_collab_base:
 
 This is a repository of where we are trying to have all the knowledge base collected.
 
+# Literature Review:
+
+- https://www.linkedin.com/posts/valeriovelardo_how-to-conduct-literature-review-effectively-activity-6749316909717606400-B2bc/
 
 ## CV Notes (Dr.Rob fergus):
 
