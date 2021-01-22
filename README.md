@@ -203,4 +203,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://thesequence.substack.com/p/edge47
 
+## Bayesian Machine Learning:
+
+- https://medium.com/acing-ai/what-is-bayesian-machine-learning-e040ffefbe3b
+
 
