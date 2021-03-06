@@ -207,4 +207,12 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://medium.com/acing-ai/what-is-bayesian-machine-learning-e040ffefbe3b
 
+## Model Monitoring:
+
+- https://towardsdatascience.com/the-playbook-to-monitor-your-models-performance-in-production-ec06c1cc3245
+
+## Probability Distributions:
+
+- https://towardsdatascience.com/getting-to-know-probability-distributions-cc1dd1e2f22b
+
 
