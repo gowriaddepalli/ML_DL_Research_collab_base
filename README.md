@@ -215,4 +215,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://towardsdatascience.com/getting-to-know-probability-distributions-cc1dd1e2f22b
 
+## Out of Distribution:
+
+- https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044
+
 
