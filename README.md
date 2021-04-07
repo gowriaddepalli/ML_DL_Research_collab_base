@@ -220,3 +220,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044
 
 
+## JOBS PROFILE ANALYSIS
+- https://eugeneyan.com/writing/data-science-roles/
+
+
