@@ -135,6 +135,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://www.educative.io/courses/data-science-in-production-building-scalable-model-pipeline
 - https://madewithml.com/courses/applied-ml-in-production/
 - https://medium.com/dair-ai/my-recommendations-to-learn-machine-learning-in-production-d3c5b8e42635
+- https://mlinproduction.com/
 
 ## NLP Research:
 
