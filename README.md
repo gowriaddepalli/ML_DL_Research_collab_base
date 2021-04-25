@@ -158,6 +158,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://paperswithcode.com/
 - https://modelzoo.co/
+- https://pub.towardsai.net/state-of-the-art-models-in-every-machine-learning-field-2021-c7cf074da8b2
 
 ## Stanford Courses:
 
