@@ -229,4 +229,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 ## JOBS PROFILE ANALYSIS
 - https://eugeneyan.com/writing/data-science-roles/
 
+## Contrastive learning:
+
+- https://www.linkedin.com/posts/danfu09_advances-in-understanding-improving-and-activity-6922385602126499841-01-i/?utm_source=linkedin_share&utm_medium=android_app
+
 
