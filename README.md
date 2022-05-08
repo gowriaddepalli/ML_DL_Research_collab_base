@@ -233,4 +233,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://www.linkedin.com/posts/danfu09_advances-in-understanding-improving-and-activity-6922385602126499841-01-i/?utm_source=linkedin_share&utm_medium=android_app
 
+## ML Codebase techniques:
+
+- https://theaisummer.com/best-practices-deep-learning-code/
+- https://theaisummer.com/deep-learning-production/
 
