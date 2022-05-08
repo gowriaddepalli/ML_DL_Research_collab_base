@@ -31,12 +31,16 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://d2l.ai/. (DL)
 - https://course.fast.ai/videos/?lesson=1 (FAST AI)
 
+## Websites: 
+- https://github.com/gowriaddepalli/DeepLearning2022
+
 ## Notes:
 
 - ML: (https://github.com/gowriaddepalli/100-Days-Of-ML-Code) \
     : https://github.com/Shivanshu-Gupta/foundations-of-machine-learning-david-rosenberg/blob/master/notes.pdf \
     : https://bloomberg.github.io/foml/#lectures
 - DL (https://github.com/gowriaddepalli/DeepLearning.ai-Summary)
+- https://github.com/gowriaddepalli/CV_DL_Research
 - NLP - cs224n - (https://github.com/gowriaddepalli/cs224n-winter-2017)
 - CV - cs231n - (https://github.com/gowriaddepalli/CS231n-2017-Summary)
 - Math - : https://vaibhavgupta.io/notes/ \
@@ -117,6 +121,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8
 - https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/
+- https://github.com/gowriaddepalli/Interview_preparation
 
 
 ## cheatsheat:
@@ -129,6 +134,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 - https://github.com/gowriaddepalli/stanford-cs-229-machine-learning
 - https://github.com/gowriaddepalli/stanford-cs-230-deep-learning
 - https://github.com/gowriaddepalli/stanford-cs-221-artificial-intelligence
+- https://github.com/gowriaddepalli/Cheatsheets
 
 ## ML Production/Engineering guidelines:
 
@@ -184,6 +190,9 @@ This is a repository of where we are trying to have all the knowledge base colle
 ## ML + Systems:
 
 - https://www.youtube.com/watch?v=OEiNnfdxBRE&list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq
+- https://github.com/gowriaddepalli/mlsystems2022
+- https://github.com/gowriaddepalli/ML_Systems
+- 
 
 ## ML:
 
@@ -237,4 +246,8 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://theaisummer.com/best-practices-deep-learning-code/
 - https://theaisummer.com/deep-learning-production/
+
+## Pytorch:
+
+- https://github.com/gowriaddepalli/Pytorch
 
