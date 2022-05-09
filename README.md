@@ -254,4 +254,5 @@ This is a repository of where we are trying to have all the knowledge base colle
 ## AI SUMMER SCHOOL: Deep Learning Production.
 
 - https://theaisummer.com/deep-learning-production/
+- https://github.com/The-AI-Summer/Deep-Learning-In-Production
 
