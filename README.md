@@ -251,3 +251,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://github.com/gowriaddepalli/Pytorch
 
+## AI SUMMER SCHOOL: Deep Learning Production.
+
+- https://theaisummer.com/deep-learning-production/
+
