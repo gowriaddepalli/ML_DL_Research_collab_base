@@ -260,3 +260,7 @@ This is a repository of where we are trying to have all the knowledge base colle
 
 - https://deeplizard.com/
 
+## Experiences from the field:
+
+- https://kartikay.substack.com/p/lessons-from-a-decade-of-working
+
